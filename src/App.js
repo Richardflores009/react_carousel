@@ -1,6 +1,6 @@
 
 import './App.css';
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import "react-responsive-carousel/lib/styles/carousel.min.css"; 
 import { Carousel } from 'react-responsive-carousel';
 let styles = {
   margin: 'auto',
